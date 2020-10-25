@@ -20,6 +20,8 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Demystifying CoroutineContext](https://proandroiddev.com/demystifying-coroutinecontext-1ce5b68407ad)
  - [Cold flows, hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
  - [Современный подход к конкурентности в Android: корутины в Kotlin](https://m.habr.com/ru/company/piter/blog/457224/)
+ - [Learning Kotlin Coroutines as a Java Dev (Part II)](https://medium.com/@patson.luk/learning-kotlin-coroutines-as-a-java-dev-part-ii-dfe0d468b65e)
+ - [https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15](https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15)
  
 
 # Lifecycle
@@ -36,6 +38,9 @@ Here is collection of android articles I has started collecting since 2018. Item
  
  -  [Оптимизация прокрутки вложенных в друг друга RecyclerView](https://ziginsider.github.io/Optimizing_nested_RecyclerView/)
  - [Smooth cross RecyclingViews Swipe](https://medium.com/@elye.project/smooth-cross-recyclingviews-swipe-cc2810e13e0a)
+ - [Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
+ - [Разоблачаем магию DiffUtil](https://habr.com/ru/company/redmadrobot/blog/460673/)
+ - [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
 
 # Activity\Fragment
 
@@ -53,6 +58,8 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Advanced & Practical MotionLayout](https://github.com/kaeawc/advanced-motionlayout-talk)
  - [Делаем свой почти Extended Floating Action Button](https://habr.com/ru/post/455728/)
  - [The making of AccordionView using ConstraintLayout](https://proandroiddev.com/the-making-of-accordionview-using-constraintlayout-c86992ffbb7b)
+ - [# droidcon NYC 2017 - Becoming a master window fitter](https://www.youtube.com/watch?v=_mGDMVRO3iE)
+ - [# Best Practices for Using Text in Android (Google I/O'19)](https://www.youtube.com/watch?v=fpSfCvP36aA)
  
 
 # Theme\Style
@@ -64,6 +71,7 @@ Here is collection of android articles I has started collecting since 2018. Item
 # Animations
  - [Seamless Android app launch animations using Intent Source Bounds](https://arunkumar.dev/seamless-android-app-launch-animations-using-intent-sourcebounds/)
  - [Bringing smooth animation transitions to Android](https://medium.com/wirecube-software-engineering/bringing-smooth-animation-transitions-to-android-88786347e512)
+ - [Motional Intelligence: build smarter animations](https://medium.com/androiddevelopers/motional-intelligence-build-smarter-animations-821af4d5f8c0)
 
 # Background
 
@@ -71,6 +79,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Background tasks on Android: Using WorkManager](https://enginebai.com/2019/01/08/background-tasks-on-android-using-workmanager/)
  - [Background Work with WorkManager - Kotlin](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
  - [Background Tasks](https://developer.android.com/training/best-background)
+ - [Android Looper, Handler, and HandlerThread](https://www.youtube.com/watch?v=rfLMwbOKLRk&list=PL6nth5sRD25hVezlyqlBO9dafKMc5fAU2)
  
 
 # Graphics
@@ -81,6 +90,10 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Images and graphics](https://developer.android.com/guide/topics/graphics/)
  - [Masking Bitmaps на Android](https://habr.com/ru/company/badoo/blog/310618/)
  - [How to optimize memory consumption when using Glide](https://proandroiddev.com/how-to-optimize-memory-consumption-when-using-glide-9ac984cfe70f)
+ - [Android Dev Tip #3 Using @android:color/transparent in gradients](https://android.jlelse.eu/android-dev-tip-3-99da754151ad)
+ - [About shape, state list, layer list and nine-patch drawables in Android](https://en.proft.me/2017/06/15/shape-state-list-layer-list-drawable-android/)
+ - [Practical Image PorterDuff Mode Usage in Android](https://medium.com/mobile-app-development-publication/practical-image-porterduff-mode-usage-in-android-3b4b5d2e8f5f)
+ - [A LUT (lot) of image filters on Android](https://www.droidcon.com/media-detail?video=353348763)
 
 # DI
 
@@ -94,6 +107,8 @@ Here is collection of android articles I has started collecting since 2018. Item
 
  - [Tracing simple memory leak around RecyclerView using LeakCanary](https://medium.com/@yfujiki/tracing-simple-memory-leak-around-recyclerview-using-leakcanary-927460532d53)
  - [Detect All Memory Leaks With LeakCanary](https://academy.realm.io/posts/droidcon-ricau-memory-leaks-leakcanary/)
+ - [# Everything you need to know about Memory Leaks in Android](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
+ - 
 
  
 # Testing
@@ -113,6 +128,9 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Дмитрий Михайлов — Архитектурный подход к обработке ошибок](https://www.youtube.com/watch?v=AmUCZRRc-OE&feature=youtu.be)
  - [Coordinator Pattern in Android with Kotlin Coroutines](https://medium.com/capital-one-tech/coordinator-pattern-in-android-with-kotlin-coroutines-fcdf79a089de)
  - [ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines](https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e)
+ - [«Фабричный метод» в разработке под Android. Лучший способ обработки пушей](https://habr.com/ru/post/332006/)
+ - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+ - [Android Architecture 🏗  A Journey Looking For The Perfect Design](https://proandroiddev.com/android-architecture-d7405db1361c)
  
 
 
@@ -121,13 +139,9 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Android applications security — part 1, reverse engineering and token storage problems](https://medium.com/skyrise/android-applications-security-part-1-2782d73771e0)
  - [MSTG Playground for Android and iOS. This is a collection of mobile apps, intentionally build insecure.](https://github.com/OWASP/MSTG-Hacking-Playground/tree/master/Android)
  - [Android Security: SSL Pinning](https://medium.com/@appmattus/android-security-ssl-pinning-1db8acb6621e)
+ - [Android App Penetration Testing 101](https://www.youtube.com/watch?v=2uwhrfXCl4I)
+ - [Overview of common Android app vulnerabilities](https://www.droidcon.com/media-detail?video=353345757)
  
- 
-# Data
- 
- - 
-
-
 # Open GL
 
  - [5 youtube tutorials](https://www.youtube.com/playlist?list=PLmqIhkHk2QFzTnjUPmgRY2QlbrQxpkpAS)
@@ -150,6 +164,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Изучаем OpenGL ES2 для Android Урок №3. Освещение](https://habr.com/ru/post/306928/)
 
 # Algorithms
+ - [Алгоритмы и структуры данных. Подготовительный курс (весна 2016)](https://www.youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
  - 
  
 
@@ -167,12 +182,15 @@ Here is collection of android articles I has started collecting since 2018. Item
 # Debugging
 
  - [Debugging Native Crashes in Android Apps](https://proandroiddev.com/debugging-native-crashes-in-android-apps-2b86fd7113d8)
+ - [# Android systrace](https://medium.com/@bkodirov/android-systrace-2d1b8285cbb3)
  
  
 # Caching
 
  - [Дмитрий Васильев — Как кэшировать информацию в Android-приложении и не стрелять себе в ногу](https://www.youtube.com/watch?v=-IaESTc9fno&feature=youtu.be)
  
+ # Network
+  - [Building your own  Retrofit Call Adapter](https://android.jlelse.eu/building-your-own-retrofit-call-adapter-b198169bab69)
 
 # Video 
 
@@ -215,11 +233,21 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [How to place 3D object at world center](https://github.com/google-ar/sceneform-android-sdk/issues/19)
  - [Building AR apps with the Sceneform SDK (Google I/O '18)](https://www.youtube.com/watch?v=jzaMMV6w_OE&feature=youtu.be)
  - [How to draw line between two anchors in Sceneform in ARCore?](https://stackoverflow.com/questions/51951704/how-to-draw-line-between-two-anchors-in-sceneform-in-arcore)
+ - [ARSceneview / Sceneview Camera differences](https://github.com/google-ar/sceneform-android-sdk/issues/421)
+ - [Getting started with Google ARCore on Android](https://blog.novoda.com/getting-started-with-google-arcore-on-android/)
+ - [Fixing device coordinate system regardless of device orientation?](https://github.com/google-ar/sceneform-android-sdk/issues/375)
+ - 
 
+# Workmanager
+ - [Android WorkManager Tutorial](https://androidwave.com/android-workmanager-tutorial/)
+ - [# WorkManager meets Kotlin](https://medium.com/androiddevelopers/workmanager-meets-kotlin-b9ad02f7405e)
+ - [# WorkManager periodicity](https://medium.com/androiddevelopers/workmanager-periodicity-ff35185ff006)
+ - [# Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 # Other
 
  - [There’s a new update available](https://proandroiddev.com/theres-a-new-update-available-75a2c5bda76e)
  - [Reduce GPS data error on Android with Kalman filter and accelerometer](https://blog.maddevs.io/reduce-gps-data-error-on-android-with-kalman-filter-and-accelerometer-43594faed19c)
  - [Android LocationManager that delivers location predictions based on a Kalman filter.](https://github.com/villoren/KalmanLocationManager)
  - [Mastering the Android Touch System](https://www.youtube.com/watch?v=EZAoJU-nUyI&feature=youtu.be)
+ - [https://android-tools.ru/coding/kak-ispolzovat-soderzhimoe-iz-uri/](https://android-tools.ru/coding/kak-ispolzovat-soderzhimoe-iz-uri/)
  
