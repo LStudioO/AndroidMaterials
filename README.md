@@ -10,6 +10,10 @@ Here is collection of android articles I has started collecting since 2018. Item
 # Kotlin
 
  - [How Reified Type makes Kotlin so much better](https://proandroiddev.com/how-reified-type-makes-kotlin-so-much-better-7ae539ed0304)
+ - [Kotlin Not-to-Do List - What we should avoid doing in Kotlin](https://www.droidcon.com/media-detail?video=352688794)
+ - [Kotlin Under the Hood: Understand the Internals (Google I/O'19)](https://www.youtube.com/watch?v=Ta5wBJsC39s)
+ - [Static Code Analysis For Kotlin](https://www.youtube.com/watch?v=LT6m5_LO2DQ)
+ - [Kotlin: cleaning Java bytecode before release](https://proandroiddev.com/kotlin-cleaning-java-bytecode-before-release-9567d4c63911)
  
 
 # Coroutines
@@ -22,15 +26,16 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Современный подход к конкурентности в Android: корутины в Kotlin](https://m.habr.com/ru/company/piter/blog/457224/)
  - [Learning Kotlin Coroutines as a Java Dev (Part II)](https://medium.com/@patson.luk/learning-kotlin-coroutines-as-a-java-dev-part-ii-dfe0d468b65e)
  - [https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15](https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15)
+ - [Coroutines + Testing = ❤️](https://www.droidcon.com/media-detail?video=352671106)
+ - [Deep diving into the Kotlin Coroutines API](https://www.droidcon.com/media-detail?video=352671093)
+ - [Wrap Callbacks as Coroutines (Kotlin/Android)](https://medium.com/@VoieDev/wrap-callbacks-as-coroutines-kotlin-android-bf4aa79024c5)
  
 
 # Lifecycle
-
- - 
+ - [Android ProcessLifecycleOwner by example](https://proandroiddev.com/android-processlifecycleowner-by-example-2f965061b9da)
 
 # Room
-
- - 
+ - [Room DB: Advanced Data Persistence](https://www.raywenderlich.com/5686-room-db-advanced-data-persistence)
  
 
 
@@ -41,11 +46,13 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
  - [Разоблачаем магию DiffUtil](https://habr.com/ru/company/redmadrobot/blog/460673/)
  - [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
+ - [Prefetch Text Layout in RecyclerView](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
 
 # Activity\Fragment
 
  - [Android Jetpack: how to smartly use Fragments in your UI (Google I/O '18)](https://www.youtube.com/watch?v=WVPH48lUzGY&feature=youtu.be)
  - [Shared Element Activity Transition](https://guides.codepath.com/android/shared-element-activity-transition)
+ - [Fragment Transitions](https://medium.com/androiddevelopers/fragment-transitions-ea2726c3f36f)
  
 
 # Layout\View
@@ -72,6 +79,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Seamless Android app launch animations using Intent Source Bounds](https://arunkumar.dev/seamless-android-app-launch-animations-using-intent-sourcebounds/)
  - [Bringing smooth animation transitions to Android](https://medium.com/wirecube-software-engineering/bringing-smooth-animation-transitions-to-android-88786347e512)
  - [Motional Intelligence: build smarter animations](https://medium.com/androiddevelopers/motional-intelligence-build-smarter-animations-821af4d5f8c0)
+ - [MotionLayout: Animation made easy](https://www.droidcon.com/media-detail?video=352671133)
 
 # Background
 
@@ -80,6 +88,8 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Background Work with WorkManager - Kotlin](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
  - [Background Tasks](https://developer.android.com/training/best-background)
  - [Android Looper, Handler, and HandlerThread](https://www.youtube.com/watch?v=rfLMwbOKLRk&list=PL6nth5sRD25hVezlyqlBO9dafKMc5fAU2)
+ - [Fluttering at 60 FPS](https://www.droidcon.com/media-detail?video=352688410)
+ - [What is new with UI in Android Q. New Features and APIs.](https://www.droidcon.com/media-detail?video=352672011)
  
 
 # Graphics
@@ -94,10 +104,16 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [About shape, state list, layer list and nine-patch drawables in Android](https://en.proft.me/2017/06/15/shape-state-list-layer-list-drawable-android/)
  - [Practical Image PorterDuff Mode Usage in Android](https://medium.com/mobile-app-development-publication/practical-image-porterduff-mode-usage-in-android-3b4b5d2e8f5f)
  - [A LUT (lot) of image filters on Android](https://www.droidcon.com/media-detail?video=353348763)
+ - [View layers for dummies](https://uiandroid.com/view-layers-for-dummies-87c2c5ef4a60)
+
+# CI/CD
+
+ - [Dude, Where's My Build? Android CI/CD at Uber](https://www.youtube.com/watch?v=tzWKZSr8JGg)
 
 # DI
 
  - [Dagger 2. Part II. Custom scopes, Component dependencies, Subcomponents](https://proandroiddev.com/dagger-2-part-ii-custom-scopes-component-dependencies-subcomponents-697c1fa1cfc)
+ - [Inject Basics!](https://www.droidcon.com/media-detail?video=352688749)
  
 # Notifications
  - [Advanced Android in Kotlin 01.1: Using Android Notifications](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-notifications/index.html#0)
@@ -116,6 +132,10 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Динамическое тестирование Андроид приложений](https://habr.com/en/post/432820/)
  - [Test UI performance](https://developer.android.com/training/testing/performance)
  - [Виталий Фридман — Крайности тестирования: хитрости из темных уголков мобильных интерфейсов](https://www.youtube.com/watch?v=4RtR-X0BbBc)
+ - [Write awesome tests](https://www.droidcon.com/media-detail?video=352671080)
+ - [Testing the Un-Testable With Android Architecture Components - Room Queries](https://proandroiddev.com/testing-the-un-testable-and-beyond-with-android-architecture-components-part-1-testing-room-4d97dec0f451)
+ - [Android UI Test: Mocking the ViewModel with or without Dagger?](http://www.davidwong.com.au/blog/2017/08/android-ui-test-mocking-the-viewmodel-with-or-without-dagger/)
+ - [Android UI Test: Mocking the ViewModel with or without Dagger? Part 2](http://www.davidwong.com.au/blog/2017/10/android-ui-test-mocking-the-viewmodel-with-or-without-dagger-part-2/)
  
 
 
@@ -131,6 +151,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [«Фабричный метод» в разработке под Android. Лучший способ обработки пушей](https://habr.com/ru/post/332006/)
  - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
  - [Android Architecture 🏗  A Journey Looking For The Perfect Design](https://proandroiddev.com/android-architecture-d7405db1361c)
+ - [Deep dive inside of Android’s ViewModel (Architecture Components)](https://android.jlelse.eu/deep-dive-inside-of-androids-viewmodel-architecture-components-e6756dc0bb11)
  
 
 
@@ -141,6 +162,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Android Security: SSL Pinning](https://medium.com/@appmattus/android-security-ssl-pinning-1db8acb6621e)
  - [Android App Penetration Testing 101](https://www.youtube.com/watch?v=2uwhrfXCl4I)
  - [Overview of common Android app vulnerabilities](https://www.droidcon.com/media-detail?video=353345757)
+ - [A day in the life of a mobile reverse engineer](https://www.droidcon.com/media-detail?video=352670021)
  
 # Open GL
 
@@ -183,6 +205,8 @@ Here is collection of android articles I has started collecting since 2018. Item
 
  - [Debugging Native Crashes in Android Apps](https://proandroiddev.com/debugging-native-crashes-in-android-apps-2b86fd7113d8)
  - [# Android systrace](https://medium.com/@bkodirov/android-systrace-2d1b8285cbb3)
+ - [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
+ - [Android vitals: debug app performance and reap rewards (Google I/O '18)](https://www.youtube.com/watch?v=dx6LBaFqEHU)
  
  
 # Caching
@@ -211,6 +235,10 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Артем Зиннатуллин — Android builds at Lyft](https://www.youtube.com/watch?v=Wd91Y8sRs2k)
  - [How to improve the build speed of your Android projects](https://www.freecodecamp.org/news/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602/)
  - [Speed Up Your Android Project's Gradle Builds!](https://dev.to/joshuadeguzman/speed-up-your-android-project-s-gradle-builds-1366)
+ - [Improving Android Build Performance](droidcon.com/media-detail?video=352688995)
+ - [Understanding Gradle and writing your own Gradle Plugin ​](https://www.droidcon.com/media-detail?video=352688993)
+ - [Build apps for Billions](https://www.droidcon.com/media-detail?video=352671069)
+ - [Optimize Gradle build performance](https://medium.com/@prashant.panwar777/optimize-gradle-build-performance-a767bba13d45)
 
 # Plugins
 
@@ -243,6 +271,7 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [# WorkManager meets Kotlin](https://medium.com/androiddevelopers/workmanager-meets-kotlin-b9ad02f7405e)
  - [# WorkManager periodicity](https://medium.com/androiddevelopers/workmanager-periodicity-ff35185ff006)
  - [# Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+ - [Embrace the WorkManager](https://www.droidcon.com/media-detail?video=352671730)
 # Other
 
  - [There’s a new update available](https://proandroiddev.com/theres-a-new-update-available-75a2c5bda76e)
@@ -250,4 +279,11 @@ Here is collection of android articles I has started collecting since 2018. Item
  - [Android LocationManager that delivers location predictions based on a Kalman filter.](https://github.com/villoren/KalmanLocationManager)
  - [Mastering the Android Touch System](https://www.youtube.com/watch?v=EZAoJU-nUyI&feature=youtu.be)
  - [https://android-tools.ru/coding/kak-ispolzovat-soderzhimoe-iz-uri/](https://android-tools.ru/coding/kak-ispolzovat-soderzhimoe-iz-uri/)
+ - [Taking your users’ money: In-app billing from start to best practices](https://www.droidcon.com/media-detail?video=353079940)
+ - [Measure What Matters with Jetpack Benchmark (Lightning)](https://www.droidcon.com/media-detail?video=352671812)
+ - [Android Studio Super Shortcuts](https://www.droidcon.com/media-detail?video=352671127)
+ - [Tracking Regressions and Improving UI Performance using Benchmarking Approach](https://www.droidcon.com/media-detail?video=352670428)
+ - [Tutorial — Create Your Own Template for Android Studio](https://medium.com/gits-apps-insight/tutorial-create-your-own-template-for-android-studio-1aaa9b4cb18)
+ - [Introducing Chucker](https://proandroiddev.com/introducing-chucker-18f13a51b35d)
+ - [Firebase App Distribution, Fastlane, Docker, Bitbucket Pipelines, Telegram, and all that jazz](https://proandroiddev.com/firebase-app-distribution-fastlane-docker-bitbucket-pipelines-telegram-and-all-that-jazz-2dcb770da7dd)
  
