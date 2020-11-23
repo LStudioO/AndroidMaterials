@@ -1,6 +1,6 @@
 # Welcome to Android Materials!
 
-Here is collection of android articles I has started collecting since 2018. Items are ordered from oldest to newest.
+Here is collection of android articles I has started collecting since 2018.
 
 
 # Java
