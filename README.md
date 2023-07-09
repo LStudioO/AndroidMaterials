@@ -26,19 +26,16 @@ Here is collection of android articles I has started collecting since 2018.
  - [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
  - [Generics in Kotlin](https://medium.com/swlh/generics-in-kotlin-5152142e281c)
  - [Kotlin’s Noinline & Crossline, once for all](https://proandroiddev.com/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
- - ["Crossinline suspend или нельзя так просто взять и сделать языковую фичу” - Ильмир Усманов@JetBrains](https://www.youtube.com/watch?v=BFnFc9gsOJk)
  - [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
  - [Kotlin for Interviews — Cheatsheet](https://blog.kotlin-academy.com/kotlin-for-interviews-cheatsheet-88a9831e9d55)
  
  
 # Coroutines
 
- - [Как использовать корутины в проде и спокойно спать по ночам / Владимир Иванов (EPAM Systems)](https://www.youtube.com/watch?v=1lEG1CPkRaw)
  - [Guide to UI programming with coroutines](https://github.com/Kotlin/kotlinx.coroutines/blob/master/ui/coroutines-guide-ui.md#android)
  - [Roman Elizarov — Lock-Free Algorithms for Kotlin Coroutines (Part 1)](https://www.youtube.com/watch?v=W2dOOBN1OQI)
  - [Demystifying CoroutineContext](https://proandroiddev.com/demystifying-coroutinecontext-1ce5b68407ad)
  - [Cold flows, hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
- - [Современный подход к конкурентности в Android: корутины в Kotlin](https://m.habr.com/ru/company/piter/blog/457224/)
  - [Learning Kotlin Coroutines as a Java Dev (Part II)](https://medium.com/@patson.luk/learning-kotlin-coroutines-as-a-java-dev-part-ii-dfe0d468b65e)
  - [https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15](https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15)
  - [Coroutines + Testing = ❤️](https://www.droidcon.com/media-detail?video=352671106)
@@ -50,7 +47,6 @@ Here is collection of android articles I has started collecting since 2018.
  - [The Real Kotlin Flow benefits over RxJava](https://proandroiddev.com/the-real-kotlin-flow-benefits-over-rxjava-c19b99ba6eb9)
  - [Coroutines “gotchas”](https://medium.com/@FerRaviola/coroutines-gotchas-494a0e425a24)
  - [Android Kotlin Coroutine Best Practices](https://medium.com/@kenkyee/android-kotlin-coroutine-best-practices-bc033fed62e7)
- - [Паттерны и антипаттерны корутин в Kotlin](https://habr.com/ru/post/432942/)
  - [Suspending over Views](https://medium.com/@chrisbanes/suspending-over-views-19de9ebd7020)
  - [Instant Search with Kotlin Coroutines](https://androidweekly.us2.list-manage.com/track/click?u=887caf4f48db76fd91e20a06d&id=2775aca70c&e=8d21f06e9e)
  - [KotlinConf 2019: Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
@@ -71,19 +67,14 @@ Here is collection of android articles I has started collecting since 2018.
  
  # RecyclerView
  
- - [Оптимизация прокрутки вложенных в друг друга RecyclerView](https://ziginsider.github.io/Optimizing_nested_RecyclerView/)
  - [Smooth cross RecyclingViews Swipe](https://medium.com/@elye.project/smooth-cross-recyclingviews-swipe-cc2810e13e0a)
  - [Reduce the number of inflation of ViewHolders drastically by sharing a ViewPool across multiple RecyclerViews](https://medium.com/@thagikura/reduce-the-number-of-inflation-of-viewholders-drastically-by-sharing-a-viewpool-across-multiple-249d5fc6d28)
- - [Разоблачаем магию DiffUtil](https://habr.com/ru/company/redmadrobot/blog/460673/)
  - [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
  - [Prefetch Text Layout in RecyclerView](https://medium.com/androiddevelopers/prefetch-text-layout-in-recyclerview-4acf9103f438)
  - [Shared Element Transitions with RecyclerView](https://mikescamell.com/shared-element-transitions-part-4-recyclerview/)
- - [Как происходит рендеринг экрана сообщений ВКонтакте](https://habr.com/ru/company/vk/blog/501988/)
  - [How RecyclerView works internally?](https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4)
  - [Anatomy of RecyclerView: a Search for a ViewHolder](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
  - [Using RecyclerView with ItemDecorations - A Basic Separator Sample](https://blog.davidmedenjak.com/android/2015/11/10/recyclerview-with-decorations-basic-guide.html)
- - [Keep it scrollin’: боремся с RecyclerView за каждый кадр / Дмитрий Яковлев (Яндекс)](https://youtu.be/0Xn_l7eost8)
- - [Как работа с тикетом «Тормозит скролл в RecyclerView» растянулась на три недели — Костя Заикин](https://youtu.be/DqHa4WUJatc?list=PLQC2_0cDcSKBWEpIuLm_XMzkll9qo5L2y&t=1447)
 
 # Activity\Fragment
 
@@ -95,14 +86,10 @@ Here is collection of android articles I has started collecting since 2018.
  
 
 # Layout\View
- - [Работа с ConstraintLayout через XML-разметку](https://habr.com/en/company/touchinstinct/blog/326814/)
  - [Understanding the performance benefits of ConstraintLayout](https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html)
- - [Практический пример создания собственного View-компонента](https://habr.com/en/post/433782/)
  - [Mastering Shadows in Android](https://android.jlelse.eu/mastering-shadows-in-android-e883ad2c9d5b)
- - [Свежий взгляд на отображение диалогов в Android](https://habr.com/ru/company/mobileup/blog/440284/)
  - [Design Like a Coder: Efficient Android Layouts](https://academy.realm.io/posts/gotocph-daniel-lew-efficient-android-layouts/)
  - [Advanced & Practical MotionLayout](https://github.com/kaeawc/advanced-motionlayout-talk)
- - [Делаем свой почти Extended Floating Action Button](https://habr.com/ru/post/455728/)
  - [The making of AccordionView using ConstraintLayout](https://proandroiddev.com/the-making-of-accordionview-using-constraintlayout-c86992ffbb7b)
  - [# droidcon NYC 2017 - Becoming a master window fitter](https://www.youtube.com/watch?v=_mGDMVRO3iE)
  - [# Best Practices for Using Text in Android (Google I/O'19)](https://www.youtube.com/watch?v=fpSfCvP36aA)
@@ -114,30 +101,23 @@ Here is collection of android articles I has started collecting since 2018.
  - [Using ConstraintLayout advanced features for Custom Dialogs on Android.](https://medium.com/quandoo/using-constraintlayout-advanced-features-for-custom-dialogs-on-android-4c0f96b92849)
  - [Adventures in the Land of EditText](https://markushintersteiner.at/blog/adventures_in_the_land_of_edittext/)
  - [A deep dive into Android View constructors](https://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
- - [Как создавать кастомные UI-элементы с анимацией в Android без тонны ненужного кода](https://dou.ua/lenta/articles/making-grafic-elements-in-android/)
  - [Choosing The Right Android Layout](https://levelup.gitconnected.com/choosing-the-right-android-layout-8c35fe476b35)
  - [Custom view from scratch. Part I.](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
  - [Designing complex UI using Android ConstraintLayout](https://blog.codemagic.io/designing-complex-ui-using-android-constraintlayout/)
  
 # Compose
 
- - [Android Dev Podcast #98: Большое интервью о Google и Compose - Подкасты Android Dev](https://androiddev.apptractor.ru/android-dev-podcast-98/)
  - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started)
  - [Understanding Jetpack Compose — Part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
  - [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 
 # Theme\Style
 
- - [Темы, стили и другие](https://habr.com/ru/post/453812/)
- - [Как выглядит ваш текст?](https://habr.com/ru/company/otus/blog/456110/)
- - [Темы и стили в Android без магии. И как их готовить с SwitchCompat](https://habr.com/ru/post/456178/)
  - [Developing themes with style (Android Dev Summit '19)](https://www.youtube.com/watch?v=Owkf8DhAOSo&list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd&index=10)
  - [Android styling: themes vs styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
  - [Android Styling: themes overlay](https://medium.com/androiddevelopers/android-styling-themes-overlay-1ffd57745207)
  - [Material Text Field proper theming](https://medium.com/@Dimitris_CBR/material-text-field-proper-theming-fcd393f27d97)
- - [Стилизация Android-приложений и дизайн-система: как это сделать и подружить одно с другим](https://habr.com/ru/company/citymobil/blog/507896/)
  - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
- - [Android-разработчикам: как сократить время реализации тёмной темы с пары месяцев до недели](https://telp.cc/4lP)
  - [Spannable String: Text Styling with Spans](https://blog.mindorks.com/spannable-string-text-styling-with-spans)
  
 # Animations
@@ -149,10 +129,6 @@ Here is collection of android articles I has started collecting since 2018.
  - [Build awesome animations with 7 lines of code using ConstraintLayout](https://android.jlelse.eu/build-awesome-animations-with-7-lines-of-code-using-constraintlayout-854e8fd3ad93)
  - [Complex UI/Animation on Android](https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4)
  - [How to create animated headers for Android with MotionLayout](https://medium.com/@WeAreMobile1st/how-to-create-animated-headers-for-android-with-motionlayout-c2e29125cc75)
- - [Анимации в Android по полочкам (Часть 2. Комплексные анимации)](https://habr.com/ru/post/348336/)
- - [MotionLayout. Анимации, как у сына маминой подруги | Андрей Тумаринсон, MERA](https://www.youtube.com/watch?v=m2fyCfm0ijY)
- - [Animations in 2k19 / Александр Смирнов (Райффайзенбанк)](https://youtu.be/vlbiW-WTjzk)
- - [Анимация в Android: плавные переходы фрагментов внутри Bottom Sheet](https://habr.com/ru/company/dodopizzadev/blog/510066/)
  - [Animating your Keyboard](https://medium.com/androiddevelopers/animating-your-keyboard-fb776a8fb66d)
  - [Animating your keyboard: Reacting to inset animations](https://medium.com/androiddevelopers/animating-your-keyboard-reacting-to-inset-animations-839be3d4c31b)
  - [SmartToolFactory/Animation-Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
@@ -176,7 +152,6 @@ Here is collection of android articles I has started collecting since 2018.
  - [Android Graphics Pipeline: From Button to Framebuffer (Part 2)](https://www.inovex.de/blog/android-graphics-pipeline-from-button-to-framebuffer-part-2/)
  - [Drawn out: how Android renders (Google I/O '18)](https://www.youtube.com/watch?v=zdQRIYOST64)
  - [Images and graphics](https://developer.android.com/guide/topics/graphics/)
- - [Masking Bitmaps на Android](https://habr.com/ru/company/badoo/blog/310618/)
  - [How to optimize memory consumption when using Glide](https://proandroiddev.com/how-to-optimize-memory-consumption-when-using-glide-9ac984cfe70f)
  - [Android Dev Tip #3 Using @android:color/transparent in gradients](https://android.jlelse.eu/android-dev-tip-3-99da754151ad)
  - [About shape, state list, layer list and nine-patch drawables in Android](https://en.proft.me/2017/06/15/shape-state-list-layer-list-drawable-android/)
@@ -187,20 +162,15 @@ Here is collection of android articles I has started collecting since 2018.
  - [Improve the UI Performance of Your Android App](https://medium.com/better-programming/android-ui-performance-11b57ac4af8c)
  - [Android Vitals - Rising to the first drawn surface 🤽‍♂️](https://dev.to/pyricau/android-vitals-rising-to-the-first-drawn-surface-1j9e)
  - [A few experiments with Android drawable gradients | Jake Lee](https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/)
- - [Отрисовка первого кадра Android-приложения](https://telp.cc/3Qs)
 
 # CI/CD
 
  - [Dude, Where's My Build? Android CI/CD at Uber](https://www.youtube.com/watch?v=tzWKZSr8JGg)
- - [CI TeamCity — Автоматизация build процессов Android и UI тестирования](https://habr.com/ru/post/502436/)
  - [Firebase App Distribution, Fastlane, Docker, Bitbucket Pipelines, Telegram, and all that jazz](https://proandroiddev.com/firebase-app-distribution-fastlane-docker-bitbucket-pipelines-telegram-and-all-that-jazz-2dcb770da7dd)
- - [Понимание разницы между СI и СD: «если что-то вызывает боль, делайте это почаще»](https://habr.com/ru/company/ua-hosting/blog/474326/)
  - [Droidcon NYC 2016 - Supercharging your Android app release with fastlane (updated)](https://www.youtube.com/watch?v=1Yg98k-MuQo)
  - [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
  - [Fastlane Tutorial for Android: Getting Started](https://www.raywenderlich.com/6461407-fastlane-tutorial-for-android-getting-started)
- - [CI/CD здорового человека / Сергей Боиштян (Авито)](https://youtu.be/AiizJd39G3Q)
  - [Continuous Integration for Android](https://www.raywenderlich.com/10562143-continuous-integration-for-android)
- - [Устройство и применение CI и CD у нас в компании](https://www.youtube.com/watch?v=WKt9ZSmvOyw)
  - [Android Emulator in a CI environment](https://telp.cc/3rg)
 
 # DI
@@ -225,9 +195,7 @@ Here is collection of android articles I has started collecting since 2018.
 
 # Testing
 
- - [Динамическое тестирование Андроид приложений](https://habr.com/en/post/432820/)
  - [Test UI performance](https://developer.android.com/training/testing/performance)
- - [Виталий Фридман — Крайности тестирования: хитрости из темных уголков мобильных интерфейсов](https://www.youtube.com/watch?v=4RtR-X0BbBc)
  - [Write awesome tests](https://www.droidcon.com/media-detail?video=352671080)
  - [Testing the Un-Testable With Android Architecture Components - Room Queries](https://proandroiddev.com/testing-the-un-testable-and-beyond-with-android-architecture-components-part-1-testing-room-4d97dec0f451)
  - [Android UI Test: Mocking the ViewModel with or without Dagger?](http://www.davidwong.com.au/blog/2017/08/android-ui-test-mocking-the-viewmodel-with-or-without-dagger/)
@@ -249,41 +217,24 @@ Here is collection of android articles I has started collecting since 2018.
  - [Unit Testing Coroutine Suspend Functions using TestCoroutineDispatcher](https://craigrussell.io/2019/11/unit-testing-coroutine-suspend-functions-using-testcoroutinedispatcher/)
  - [Testing Activities in Isolation (Espresso for Beginners PART 2)](https://www.youtube.com/watch?v=zJuFYqnBcgQ)
  - [SOURCE CODE - UI Testing Beginners Course (Espresso for Beginners PART 1)](https://www.youtube.com/watch?v=NTBj_0tIlQc)
- - [A/B тесты в мобильной разработке - быстрый старт / Михаил Стеценко (Revolut Ltd)](https://youtu.be/b-v7TimtiPk)
- - [Юнит-тесты переоценены](https://habr.com/ru/company/qiwi/blog/510608/)
  
 # Architecture
 
- - [Современная MVI-архитектура на базе Kotlin](https://habr.com/en/company/badoo/blog/429728/)
- - [Как правильно писать Android-приложение в одном Activity / Константин Цховребов (RedMadRobot)](https://www.youtube.com/watch?v=wcdqoTubPrU)
- - [Современная Android разработка на Kotlin. Часть 2](https://habr.com/en/post/432826/)
- - [Александр Михайлов — Мобильная архитектура в большой команде](https://www.youtube.com/watch?v=AtvXOUjXmbs&feature=youtu.be)
- - [Дмитрий Михайлов — Архитектурный подход к обработке ошибок](https://www.youtube.com/watch?v=AmUCZRRc-OE&feature=youtu.be)
  - [Coordinator Pattern in Android with Kotlin Coroutines](https://medium.com/capital-one-tech/coordinator-pattern-in-android-with-kotlin-coroutines-fcdf79a089de)
  - [ViewModels with Saved State, Jetpack Navigation, Data Binding and Coroutines](https://medium.com/androiddevelopers/viewmodels-with-saved-state-jetpack-navigation-data-binding-and-coroutines-df476b78144e)
- - [«Фабричный метод» в разработке под Android. Лучший способ обработки пушей](https://habr.com/ru/post/332006/)
  - [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
  - [Android Architecture 🏗  A Journey Looking For The Perfect Design](https://proandroiddev.com/android-architecture-d7405db1361c)
  - [Deep dive inside of Android’s ViewModel (Architecture Components)](https://android.jlelse.eu/deep-dive-inside-of-androids-viewmodel-architecture-components-e6756dc0bb11)
- - [Масштабируемая архитектура для больших мобильных приложений](https://habr.com/ru/post/504260/)
- - [Лицензия на вождение болида, или почему приложения должны быть Single-Activity](https://habr.com/ru/company/redmadrobot/blog/426617/)
  - [Android Architecture Part 4: Applying Clean Architecture on Android, Hands on (source code included) • FIVE](https://five.agency/android-architecture-part-4-applying-clean-architecture-on-android-hands-on/)
  - [Scalable Architecture For Big Mobile Projects](https://medium.com/@alexeyglukharev/scalable-architecture-for-big-mobile-projects-c48f329a2275)
  - [Module rules — protect your build time and architecture.](https://proandroiddev.com/module-rules-protect-your-build-time-and-architecture-d1194c7cc6bc)
  - [Clean Architecture Guide (with tested examples): Data Flow != Dependency Rule](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
- - [Организация и инфраструктура дизайн-системы Авито | Андрей Данилов, Авито](https://www.youtube.com/watch?v=OzlsWfi1zPA)
- - [Александр Блинов — Властелин модулей](https://www.youtube.com/watch?v=7y3SurtFqL0)
  - [Common Design Patterns for Android with Kotlin](https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin)
  - [8 Valid Reasons for Modularization in Android](https://www.techyourchance.com/modularization-android)
  - [How To Write Use Cases (Interactors) in Kotlin](https://www.techyourchance.com/how-to-use-case-interactor-kotlin/)
  - [Architectural journey by Zsolt Kocsi, Badoo EN](https://www.youtube.com/watch?v=pXw6r2kAvq8)
- - [Акторные модели: новый взгляд на старый подход](https://mobius-piter.ru/2018/spb/talks/3twxmis0fkqouagcciaasq/)
  - [VMadalin/android-modular-architecture](https://github.com/VMadalin/android-modular-architecture)
- - [Дзен изолированных компонентов в Android-архитектуре](https://habr.com/ru/company/badoo/blog/463781/)
  - [Taming state in Android with Elm Architecture and Kotlin, Part 1](https://proandroiddev.com/566caae0f706)
- - [Александр Блинов — Властелин модулей](https://youtu.be/7y3SurtFqL0)
- - [Android - Трудности рефакторинга (архитектурный подход)](https://www.youtube.com/watch?v=NhBXnpK19mc)
- - [Евгений Суворов — Многомодульная архитектура проекта](https://youtu.be/_EC38ZzIWPo)
  - [Coroutine + Flow = MVI](https://www.droidcon.com/media-detail?video=362742098)
  - [Android MVI with Kotlin Coroutines & Flow - QuickBird Studios Blog](https://quickbirdstudios.com/blog/android-mvi-kotlin-coroutines-flow/)
  - [Android MVI architecture with Jetpack & Coroutines/Flow — Part 1 — RecyclerView Adapter w/…](https://medium.com/google-developer-experts/android-mvi-architecture-with-jetpack-coroutines-flow-part-1-recyclerview-adapter-w-83a10134207f)
@@ -291,11 +242,8 @@ Here is collection of android articles I has started collecting since 2018.
  - [How to cook a well-done MVI for Android](https://www.youtube.com/watch?v=Ls0uKLqNFz4&t=964s)
  - [Etienne Carol - Simple MVI Architecture for Android](https://www.youtube.com/watch?v=1vlTPp336UY&t=912s)
  - [ImangazalievM/CleanArchitectureManifest](https://github.com/ImangazalievM/CleanArchitectureManifest)
- - [Многомодульность](https://docs.google.com/document/d/1kOaHwPZl1klDgb87h4BPt_5MP1Auy8HrmJespCqjDrs/edit?usp=sharing)
  - [Best Architecture For Android : MVI + LiveData + ViewModel = ❤️](https://proandroiddev.com/best-architecture-for-android-mvi-livedata-viewmodel-71a3a5ac7ee3)
- - [AndroidArchitecture/AndroidArchitectureBook](https://github.com/AndroidArchitecture/AndroidArchitectureBook/blob/master/theory/Theory_article.md)
- - [Сергей Рябов — Как приготовить хорошо прожаренный MVI под Android](https://www.youtube.com/watch?v=hBkQkjWnAjg)
- 
+ - [AndroidArchitecture/AndroidArchitectureBook](https://github.com/AndroidArchitecture/AndroidArchitectureBook/blob/master/theory/Theory_article.md) 
  
 # Security
 
@@ -307,19 +255,15 @@ Here is collection of android articles I has started collecting since 2018.
  - [A day in the life of a mobile reverse engineer](https://www.droidcon.com/media-detail?video=352670021)
  - [Android Security Tools Expert – ATX](https://opsecx.com/index.php/product/android-security-tools-expert-atx/)
  - [Hacker101](https://www.hacker101.com/videos)
- - [Как читать трафик мобильного приложения под Android 7 и выше](https://www.performance-lab.ru/blog/traffik-mobilnogo-prilozheniya)
  - [Practical security for Android apps - Enrique Lopez Manas](https://www.youtube.com/watch?v=gCI8CIILP_0&list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH&index=6)
  - [Modern Android Hacking - Dustin Summers](https://www.youtube.com/watch?v=weiYq_UR19I&list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH&index=7)
  - [Defending Your Users - Mark Murphy](https://www.youtube.com/watch?v=39fGj5v5s1g&list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH&index=9)
  - [Securing Mobile Apps, From the Inside Out](https://youtu.be/Ql4q-mGmXkA)
  - [Modern Security in Android (part 1)](https://medium.com/knowing-android/modern-security-in-android-part-1-6282bcb71e6c)
  - [Securing Network Data Tutorial for Android](https://www.raywenderlich.com/10056112-securing-network-data-tutorial-for-android)
- - [Инструменты для взлома и реверсинга Android-приложений](http://www.spy-soft.net/tools-for-reversing-applications/)
  - [android/security-samples](https://github.com/android/security-samples)
  - [Security in Android — Cheatsheet](https://android.jlelse.eu/security-in-android-cheatsheet-8c3d3125e3a9)
  - [Protect against security threats with SafetyNet | Android Developers](https://developer.android.com/training/safetynet)
- - [Безопасность Android приложений](https://www.youtube.com/watch?v=Jy3x8QeHLbw)
- - [Как провести тестирование на безопасность Android-приложения](https://dou.ua/lenta/articles/android-app-secutity-testing/?from=slider)
  - [Data Privacy for Android](https://www.raywenderlich.com/6901838-data-privacy-for-android)
  - [Unit Testing Best Practices](https://medium.com/better-programming/unit-testing-best-practices-9bceeafe6edf)
  - [Stress-testing Android apps](https://proandroiddev.com/stress-testing-android-apps-601311ebf590)
@@ -332,7 +276,6 @@ Here is collection of android articles I has started collecting since 2018.
  - [Cutter](https://cutter.re/)
  - [Android Application Exploitation - Red Team Village](https://www.youtube.com/watch?v=uWT15hEM1dQ)
  - [Keystore](https://www.youtube.com/watch?v=-9A_FO7wl94)
- - [Дмитрий Терёшин — Как два пальца: Локальные атаки на мобильные приложения](https://www.youtube.com/watch?v=uN6IocCyIF0)
  - [Modern Security in Android (part 1)](https://medium.com/knowing-android/modern-security-in-android-part-1-6282bcb71e6c)
  - [Modern Security in Android (part 2)](https://medium.com/knowing-android/modern-security-in-android-part-2-743cd7c0941a)
  - [Modern Security in Android (part 3)](https://medium.com/knowing-android/modern-security-in-android-part-3-bea8cc6f984f)
@@ -346,8 +289,6 @@ Here is collection of android articles I has started collecting since 2018.
 
  - [5 youtube tutorials](https://www.youtube.com/playlist?list=PLmqIhkHk2QFzTnjUPmgRY2QlbrQxpkpAS)
  - [Pro OpenGL ES for Android \[Book\]](https://doc.lagout.org/programmation/OpenGL/Pro%20OpenGL%20ES%20for%20Android%20%5BSmithwick%20&%20Verma%202012-01-24%5D.pdf)
- - [OpenGL ES 2.0. Отложенное освещение](https://habr.com/en/post/311730/)
- - [OpenGL ES 2.0. Один миллион частиц](https://habr.com/en/post/303142/)
  - [This tutorial helps the Android developers who are beginners in OpenGLES2.0 to create various types of shape they would need to create an application](https://github.com/regar007/ShapesInOpenGLES2.0)
  - [OpenGL, a noob’s guide for Android developers](https://medium.com/@xzan/opengl-a-noobs-guide-for-android-developers-5eed724e07ad)
  - [OpenGL Tutorial for Android: Building a Mandelbrot Set Generator](https://www.toptal.com/opengl/opengl-tutorial-for-android-building-a-mandelbrot-set-generator)
@@ -361,20 +302,10 @@ Here is collection of android articles I has started collecting since 2018.
  - [Use Shaders to mimic some Instagram filter effect](https://github.com/yulu/Instagram_Filter/tree/master/src/com/littlecheesecake/instagram_trial)
  - [Shadow Mapping with Android OpenGL ES 2](https://www.codeproject.com/Articles/822380/Shadow-Mapping-with-Android-OpenGL-ES)
  - [OpenGL ES2 Learning Progress....](http://opengles2learning.blogspot.com/)
- - [Изучаем OpenGL ES2 для Android Урок №3. Освещение](https://habr.com/ru/post/306928/)
-
-# Algorithms
-
- - [Алгоритмы и структуры данных. Подготовительный курс (весна 2016)](https://www.youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
- - [Разбираемся в алгоритмах и структурах данных. Доступно и понятно](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
- - [АВЛ-деревья](https://habr.com/ru/post/150732/)
- - [Митап "Разоблачаем магию DiffUtil" / Петр Козлов](https://youtu.be/G05bQIqg1tI)
  
  # Locale 
 
- - [How to change the language on Android at runtime and don’t go mad](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758)
- - [Переключение языка в мобильном приложении](https://www.youtube.com/watch?v=b428Ly7SrfI)
- 
+ - [How to change the language on Android at runtime and don’t go mad](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758) 
    
 # Projects
    
@@ -393,7 +324,6 @@ Here is collection of android articles I has started collecting since 2018.
  - [veekun/pokedex](https://github.com/veekun/pokedex)
  - [The Swift to Kotlin translator](https://github.com/vinivendra/Gryphon)
  - [android/compose-samples](https://github.com/android/compose-samples)
- - [kirich1409/ViewBindingPropertyDelegate](https://telp.cc/2m3)
  
 # Debugging\Profilling
 
@@ -404,37 +334,28 @@ Here is collection of android articles I has started collecting since 2018.
  - [Analyze and improve Android app performance with System Tracing](https://proandroiddev.com/analyze-and-improve-android-app-performance-with-system-tracing-badb278f995a)
  - [Extensible mobile app debugger | Flipper](https://fbflipper.com/)
  - [Analyze and improve Android app performance with System Tracing](https://proandroiddev.com/analyze-and-improve-android-app-performance-with-system-tracing-badb278f995a)
- 
-# Caching
-
- - [Дмитрий Васильев — Как кэшировать информацию в Android-приложении и не стрелять себе в ногу](https://www.youtube.com/watch?v=-IaESTc9fno&feature=youtu.be)
- 
+  
 # Network
  
  - [Building your own  Retrofit Call Adapter](https://android.jlelse.eu/building-your-own-retrofit-call-adapter-b198169bab69)
  - [Connectivity State on Android 10 and Above](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
- - [Как настроить Apollo для работы с GraphQL в Android](https://habr.com/ru/post/501184/)
  - [Exploring ViewPager2 in Android](https://medium.com/@sgkantamani/exploring-viewpager2-in-android-b9f2985d6895)
  - [A Beginner’s Guide to gRPC in Android](https://medium.com/swlh/a-beginners-guide-to-grpc-in-android-61cc56a423f7)
  - [Authorization and retrying of web requests for OkHttp and Retrofit](https://www.lordcodes.com/articles/authorization-of-web-requests-for-okhttp-and-retrofit)
 
 # Video 
 
- - [Александр Тоболь, Иван Григорьев — Стриминг и воспроизведение видео поверх голых сокетов и кодеков](https://www.youtube.com/watch?v=e1JYFRwHzkQ)
  - [Media streaming with ExoPlayer](https://codelabs.developers.google.com/codelabs/exoplayer-intro/#0)
  - [ExoPlayer Video Streaming in Android](https://androidwave.com/video-streaming-exoplayer-in-android/)
  - [Playing video by ExoPlayer](https://medium.com/fungjai/playing-video-by-exoplayer-b97903be0b33)
  - [Best practices for Video Playback in Android](https://blog.viki.com/best-practices-for-video-playback-in-android-d7482d513f3d)
- - [Как мы добавили поддержку видео в мобильное приложение / Виктория Сулейманова (Canva)](https://youtu.be/clFW1IvpQik)
  
 # Compilers
 
  - [Yonatan Levin — Compilers. Dalvik. ART. And everything in between](https://www.youtube.com/watch?v=ug2ccVnbpig)
  
-
 # Build
 
- - [Артем Зиннатуллин — Android builds at Lyft](https://www.youtube.com/watch?v=Wd91Y8sRs2k)
  - [How to improve the build speed of your Android projects](https://www.freecodecamp.org/news/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602/)
  - [Speed Up Your Android Project's Gradle Builds!](https://dev.to/joshuadeguzman/speed-up-your-android-project-s-gradle-builds-1366)
  - [Improving Android Build Performance](droidcon.com/media-detail?video=352688995)
@@ -442,16 +363,10 @@ Here is collection of android articles I has started collecting since 2018.
  - [Build apps for Billions](https://www.droidcon.com/media-detail?video=352671069)
  - [Optimize Gradle build performance](https://medium.com/@prashant.panwar777/optimize-gradle-build-performance-a767bba13d45)
  - [Answers to common questions about App Signing by Google Play](https://medium.com/androiddevelopers/answers-to-common-questions-about-app-signing-by-google-play-b28fef836af0)
- - [Как подружиться с Gradle](https://youtu.be/WOBok2u-SL8)
  - [Introducing file system watching](https://blog.gradle.org/introducing-file-system-watching)
  - [Gradle tips and recipes | Android Developers](https://developer.android.com/studio/build/gradle-tips)
- - ["На старт! Внимание! Build!" со Степаном Гончаровым](https://youtu.be/Ym9KGz-D8bI)
- - [Степан Гончаров — Gradle pipeline optimisation: Beyond basics](https://youtu.be/ez3mQoMZUBY)
  - [stepango/bazel-android-intro](https://github.com/stepango/bazel-android-intro)
- - [Денис Неклюдов — Как не состариться во время сборки: Kapt и другие приключения](https://youtu.be/FMiFtsew2UY)
  - [How to improve the build speed of your Android projects](https://www.freecodecamp.org/news/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602/)
- - [Степан Гончаров — Gradle от A до Я](https://www.youtube.com/watch?v=Yft6h7JkWo0)
- - [Как подружиться с Gradle](https://www.youtube.com/watch?v=WOBok2u-SL8)
  - [The proper care and feeding of your Gradle build](https://telp.cc/2aY)
  - [Android build and the journey to the end game](https://proandroiddev.com/android-build-and-the-journey-to-the-end-game-55c9766325c5)
  - [The internals of Android APK build process — Article](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20)
@@ -466,7 +381,6 @@ Here is collection of android articles I has started collecting since 2018.
 
  - [Render 3D Objects in ARCore using GPS location?](https://stackoverflow.com/questions/51888308/render-3d-objects-in-arcore-using-gps-location)
  - [This AR app generally show where things are in the real-world by indicating where the app thinks they are over the camera view when the user holds the phone up and moves it about.](https://github.com/dat-ng/ar-location-based-android)
- - [Играем в Тетрис в AR](https://habr.com/ru/post/454664/)
  - [Khoji - Location tracking and visualization using Augmented Reality](https://github.com/aadimator/khoji)
  - [Android SDK Augmented Reality: Location & Distance](https://code.tutsplus.com/tutorials/android-sdk-augmented-reality-location-distance--mobile-8004)
  - [The application serves as a base for any developer to build their own Geolocation AR app](https://github.com/aishnacodes/Geolocation-ARCore)
@@ -493,25 +407,18 @@ Here is collection of android articles I has started collecting since 2018.
  
 # VCS
 
- - [ПШЕ AndroidStudio или как использовать VCS Tools по полной](https://habr.com/ru/post/499070/)
  - [Pull request review with IntelliJ IDEA or Android Studio](https://medium.com/@mkutlev/pull-request-review-with-intellij-idea-or-android-studio-e60fbb3e3639)
- 
-# Kotlin MultiPlatform
-
- - [Мобильная разработка на Kotlin MultiPlatform / Алексей Михайлов (IceRock)](https://youtu.be/kO8RDq6OoV4)
-  
+   
 # Navigation
 
  - [Multiple navigation graphs (with bottom navigation bar)](https://www.rockandnull.com/jetpack-navigation-bottom-navigation-view/)
  - [Step by Step to Bottom Navigation with Jetpack’s Navigation Component and multiple nav graphs](https://proandroiddev.com/step-by-step-to-bottom-navigation-with-jetpacks-navigation-component-and-multiple-nav-graphs-271c05af1dd3)
- - [Реализация навигации в Android приложениях с помощью Navigation Architecture Component](https://habr.com/ru/post/416025/)
  - [Android Jetpack Navigation Pitfalls & Tricks • Lukas Baronyai](https://code.allaboutapps.at/articles/android-jetpack-navigation-pitfalls/)
  - [Week 6 - Kotlin Android Development Course for Beginners - Navigation Architecture Component](https://www.youtube.com/watch?v=f8sBujQmEIw)
  - [A Useful Navigation Extension](https://www.netguru.com/codestories/a-useful-navigation-extension)
  - [Navigation Component for Android Part 2: Graphs and Deep Links](https://www.raywenderlich.com/4332831-navigation-component-for-android-part-2-graphs-and-deep-links)
  - [Multi module navigation with the Android Architecture component](https://medium.com/@hartwich.daniel/multi-module-navigation-with-the-android-architecture-component-82ed028fa1d9)
  - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
- - [Navigation Component-дзюцу, vol. 1 — BottomNavigationView](https://telp.cc/2GR)
 
 # Analyzers
 
@@ -532,57 +439,40 @@ Here is collection of android articles I has started collecting since 2018.
  - [Tracking Regressions and Improving UI Performance using Benchmarking Approach](https://www.droidcon.com/media-detail?video=352670428)
  - [Tutorial — Create Your Own Template for Android Studio](https://medium.com/gits-apps-insight/tutorial-create-your-own-template-for-android-studio-1aaa9b4cb18)
  - [Introducing Chucker](https://proandroiddev.com/introducing-chucker-18f13a51b35d)
- - [Что посмотреть на карантине? Подборка материалов от Технострима (часть 1)](https://habr.com/ru/company/mailru/blog/498500/)
  - [Best practices for unique identifiers | Android Developers](https://developer.android.com/training/articles/user-data-ids)
  - [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer)
  - [ibrahimsn98/web-dev-tools-android](https://github.com/ibrahimsn98/web-dev-tools-android)
- - [Релизный поезд. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/504752/)
  - [Gesture Navigation and the edge-to-edge experience | Google Codelabs](https://codelabs.developers.google.com/codelabs/gesture-navigation)
  - [plnice/can-i-drop-jetifier](https://github.com/plnice/can-i-drop-jetifier)
  - [AsyncAndroid](https://www.youtube.com/channel/UC-qBi3QVQ8ow-QrIBeJi9ig/videos)
- - [Google Play Instant - рефакторинг длиною в жизнь / Евгений Сатуров](https://www.youtube.com/watch?v=-KUj_Kp_Xcg)
- - [Android Insets - разбираемся со страхами и готовимся к Android Q / Константин Цховребов](https://www.youtube.com/watch?v=6Djql74drwk)
  - [Advanced Android in Kotlin | Training Courses | Android Developers](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
  - [Push Notifications](https://youtu.be/LNHWy5y1kq0)
- - [Шпаргалка по фичам Android с 6 версии](https://www.youtube.com/watch?v=XKTRX6tQokw)
  - [🕐 Revisited — 📚 A Guide on Splash Screen in Android in 2020](https://android.jlelse.eu/revisited-a-guide-on-splash-screen-in-android-in-2020-bbcd4bb1ce42)
  - [Motion Vectors - Styling Android](https://blog.stylingandroid.com/motion-vectors/)
- - [Пишем гибкий VerticalSwipeBehavior](https://habr.com/ru/post/481910/)
  - [MOConfBy: Android Insets — deal with fears and get ready for Android Q (Ru), Konstantin Tskhovrebov](https://www.youtube.com/watch?v=WmX10je6KH0&feature=youtu.be)
  - [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
  - [anggrayudi/android-hidden-api](https://github.com/anggrayudi/android-hidden-api)
  - [Developer Options in Android](https://medium.com/mindorks/developer-options-in-android-dfa94fe6c501)
- - [Починить, хакнуть, раскопать. Решаем онлайн-квест Droid Mission](https://habr.com/ru/company/yandex/blog/484876/)
  - [How touch events are delivered in Android](https://medium.com/@suragch/how-touch-events-are-delivered-in-android-eee3b607b038)
  - [Using kapt - Kotlin Programming Language](https://kotlinlang.org/docs/reference/kapt.html)
  - [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
- - [Android insets: разбираемся со страхами и готовимся к Android Q](https://habr.com/ru/company/oleg-bunin/blog/488196/)
  - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
  - [No-op versions for dev tools](https://medium.com/@orhanobut/no-op-versions-for-dev-tools-b0a865934398)
  - [skydoves/TransformationLayout](https://github.com/skydoves/TransformationLayout)
  - [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
  - [Styling Android - A technical guide to improving the UI and UX of Android apps](https://blog.stylingandroid.com/page)
  - [How to Shrink the Size of Your Android App With R8](https://medium.com/better-programming/shrink-your-android-app-with-r8-afe17c4d393)
- - [Download Manager: не изобретайте колесо / Виктор Лапин (Advantum)](https://youtu.be/-4JqEROeI7U)
  - [Debugging in Android Studio](https://medium.com/androiddevelopers/debugging-in-android-studio-dfbbf8a8d03c)
  - [The immense benefits of not thinking in screens](https://badootech.badoo.com/the-immense-benefits-of-not-thinking-in-screens-6c311e3344a0)
  - [Android ViewModels: Under the hood](https://blog.mindorks.com/android-viewmodels-under-the-hood)
  - [BaseActivity and BaseFragment are monsters](https://proandroiddev.com/baseactivity-and-basefragment-are-monsters-5cda31639938)
  - [Google Play Billing Library meets Kotlin Coroutine](https://proandroiddev.com/google-play-billing-library-meets-kotlin-coroutine-c68e10553786)
- - [Дао пентестера](https://www.youtube.com/watch?v=BbygfeMZGj4)
  - [Android Studio Keys and Tricks](https://www.youtube.com/watch?v=_atetzVtK-g)
  - [Disabling Jetifier](https://adambennett.dev/2020/08/disabling-jetifier/)
  - [Code Review](https://www.youtube.com/watch?v=O4lcyGouQKY)
- - [Чему я научился на своём горьком опыте](https://www.youtube.com/watch?v=8p03xTMTUho)
  - [Stranger Things](https://www.youtube.com/watch?v=0FPrpwkALZM)
  - [Android Development | Best Practices](https://proandroiddev.com/android-development-best-practices-7278e9cdbbe9)
- - [Александр Гузенко — Android: He protec, but he also attac](https://www.youtube.com/watch?v=t6JQuxZz0Z0)
- - [Фундаментальные проблемы Android — Javanese](http://javanese.online/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_android/)
  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
  - [ViewBinding vs Kotlin Synthetics](https://telp.cc/2m1)
- - [Трансформация Android-разработки с Jetpack Compose и Корутинами](https://habr.com/ru/company/kaspersky/blog/513364/)
- - [20 инструментов Android-разработчика, о которых вы могли не знать](https://habr.com/ru/company/alconost/blog/519070/)
  - [Uncomfortable Questions About App Signing](https://commonsware.com/blog/2020/09/23/uncomfortable-questions-app-signing.html)
- - [Android изнутри: сравнение Dalvik и ART](https://m.habr.com/ru/post/513928/)
- - [«Холодный» запуск Android-приложения](https://telp.cc/3ua)
  - [Handling Dates & Times in SQLite :: Ryan Harter](https://ryanharter.com/blog/2020/09/handling-dates-times-in-sqlite/)
