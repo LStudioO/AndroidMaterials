@@ -109,6 +109,13 @@ A collection of useful android articles.
  - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/7032631-jetpack-compose-tutorial-for-android-getting-started)
  - [Understanding Jetpack Compose — Part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
  - [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
+ - [Designing Jetpack Compose architecture for a gradual transition from fragments on Android](https://medium.com/turo-engineering/designing-jetpack-compose-architecture-for-a-gradual-transition-from-fragments-on-android-b11ee5f19ba8)
+ - [Compose state explained Series' Articles](https://dev.to/zachklipp/series/12895)
+ - [Opening the shutter on snapshots](https://www.droidcon.com/2022/09/29/opening-the-shutter-on-snapshots/)
+ - [6 weeks of Compose or how a good design system is vital in Compose](https://www.droidcon.com/2022/09/29/6-weeks-of-compose-or-how-a-good-design-system-is-vital-in-compose/)
+ - [Optimizing render performance of Jetpack Compose](https://www.droidcon.com/2022/09/29/optimizing-render-performance-of-jetpack-compose/)
+ - [Jetpack Compose: VisualTransformation Made Easier](https://www.droidcon.com/2023/03/15/jetpack-compose-visualtransformation-made-easier/)
+ - [What does recomposition mean to your app](https://www.droidcon.com/2022/09/29/what-does-recomposition-mean-to-your-app-2/)
 
 # Theme\Style
 
@@ -418,6 +425,11 @@ A collection of useful android articles.
  - [Navigation Component for Android Part 2: Graphs and Deep Links](https://www.raywenderlich.com/4332831-navigation-component-for-android-part-2-graphs-and-deep-links)
  - [Multi module navigation with the Android Architecture component](https://medium.com/@hartwich.daniel/multi-module-navigation-with-the-android-architecture-component-82ed028fa1d9)
  - [What’s New in Navigation 2020](https://android-developers.googleblog.com/2020/07/whats-new-in-navigation-2020.html)
+ - [Abstract your Android Navigation for Compose, part 1](https://funkymuse.dev/posts/nav-abstraction-part-1/)
+ - [Scalable Jetpack Compose Navigation](https://medium.com/bumble-tech/scalable-jetpack-compose-navigation-9c0659f7c912)
+ - [Compose Destinations: simpler and safer navigation in Compose with no compromises](https://proandroiddev.com/compose-destinations-simpler-and-safer-navigation-in-compose-with-no-compromises-74a59c6b727d)
+ - [Navigating through multi-module Jetpack Compose applications](https://proandroiddev.com/navigating-through-multi-module-jetpack-compose-applications-6c9a31fa12b6)
+ - [Model-driven navigation with Jetpack Compose](https://www.droidcon.com/2022/09/29/model-driven-navigation-with-jetpack-compose-from-zero-to-hero/)
 
 # Analyzers
 
