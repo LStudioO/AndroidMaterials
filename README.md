@@ -1,7 +1,6 @@
 # Welcome to Android Materials!
 
-Here is collection of android articles I has started collecting since 2018.
-
+A collection of useful android articles.
 
 # Java
 
